@@ -5,6 +5,7 @@
 >Tote is a minimal K8s plugin to perform bulk operations against K8s Pods and Services.
 
 
+
 | Steps to install `tote`: |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | 1. `cp tote.java /usr/local/bin/tote` <br/>
