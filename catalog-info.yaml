@@ -8,5 +8,5 @@ metadata:
     github.com/project-slug: fotisolgr/tote
 spec:
   type: service
-  owner: user:fsoldatos
+  owner: user:fotisolgr
   lifecycle: experimental
