@@ -2,8 +2,8 @@ site_name: My Docs
 
 nav:
   - Version 1.0.0:
-    - v1.0.0/index.md
+    - Home: v1.0.0/index.md
   - Version 1.0.1:
-    - v1.0.1/index.md
+    - Home: v1.0.1/index.md
 
 theme: readthedocs
