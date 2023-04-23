@@ -13,4 +13,4 @@ nav:
 theme: readthedocs
 
 plugins:
-  - techdocs-core:
+  - techdocs-core
