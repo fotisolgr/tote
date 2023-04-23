@@ -1,16 +1,9 @@
-site_name: Tote Documentation
+site_name: My Docs
 
 nav:
-  - v1.0.0:
-      - Home: v1.0.0/index.md
-      - About: v1.0.0/about.md
-      - Contact: v1.0.0/contact.md
-  - v1.0.1:
-      - Home: v1.0.1/index.md
-      - About: v1.0.1/about.md
-      - Contact: v1.0.1/contact.md
+  - Version 1.0.0:
+    - v1.0.0/index.md
+  - Version 1.0.1:
+    - v1.0.1/index.md
 
 theme: readthedocs
-
-plugins:
-  - techdocs-core
