@@ -4,15 +4,15 @@ nav:
   - Home: index.md
   - About: about.md
   - Contact: contact.md
+  - Versions:
+    - v1.0.0: v1.0.0/
+    - v1.0.1: v1.0.1/
   
 theme: readthedocs
 
 plugins:
   - techdocs-core:
-      # Location of the directory containing the documentation source files.
       src: docs
-      # Optional: pattern to match for versioning directories.
       versions:
         - pattern: "v*.*.*"
-          # Optional: label to use for this version, otherwise the directory name is used.
           label: "vX.Y.Z"
