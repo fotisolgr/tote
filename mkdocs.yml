@@ -1,18 +1,16 @@
 site_name: Tote Documentation
 
 nav:
-  - Home: index.md
-  - About: about.md
-  - Contact: contact.md
-  - Versions:
-    - v1.0.0: v1.0.0/
-    - v1.0.1: v1.0.1/
-  
+  - v1.0.0:
+      - Home: v1.0.0/index.md
+      - About: v1.0.0/about.md
+      - Contact: v1.0.0/contact.md
+  - v1.0.1:
+      - Home: v1.0.1/index.md
+      - About: v1.0.1/about.md
+      - Contact: v1.0.1/contact.md
+
 theme: readthedocs
 
 plugins:
   - techdocs-core:
-      src: docs
-      versions:
-        - pattern: "v*.*.*"
-          label: "vX.Y.Z"
