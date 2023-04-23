@@ -5,6 +5,7 @@ metadata:
   description: A minimal kubernetes plugin
   annotations:
     backstage.io/kubernetes-id: tote
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: fotisolgr/tote
 spec:
   type: service
