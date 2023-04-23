@@ -1,7 +1,11 @@
-site_name: 'example-docs'
+site_name: Tote Documentation
 
 nav:
   - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+  
+theme: readthedocs
 
 plugins:
   - techdocs-core
