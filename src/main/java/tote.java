@@ -71,6 +71,7 @@ class tote implements Callable<Integer> {
         }
     }
 
+    // TODO: enrich functionality 1
     private static List<PodInfo> getPodsInfo(KubernetesClient k8sClient) {
         if (namespace != null && label != null) {
             return k8sClient.pods().inNamespace(namespace).withLabel(label).list().getItems()
@@ -99,6 +100,7 @@ class tote implements Callable<Integer> {
                 .collect(Collectors.toList());
         final var nodeName = pod.getSpec().getNodeName();
 
+        // TODO: investigation needed
         k8sClient.close();
 
         return new PodInfo(kind, namespace, pod.getMetadata().getName(), state, images, nodeName);
