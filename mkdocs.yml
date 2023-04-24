@@ -14,6 +14,6 @@ plugins:
   - techdocs-core
   
 theme:
-  name: material-mkdocs
+  name: material
   features:
     - toc.integrate
