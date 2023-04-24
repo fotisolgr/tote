@@ -9,3 +9,5 @@ nav:
     - Home: v1.0.1/index.md
     - About: v1.0.1/about.md
     - Contact: v1.0.1/contact.md
+plugins:
+  - techdocs-core
