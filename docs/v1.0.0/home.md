@@ -1,3 +1,3 @@
-# example docs
+# Home
 
 This is a basic example of tote documentation .
