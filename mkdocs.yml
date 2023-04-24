@@ -11,3 +11,7 @@ nav:
     - Contact: v1.0.1/contact.md
 plugins:
   - techdocs-core
+  
+theme:
+  features:
+    - toc.integrate
