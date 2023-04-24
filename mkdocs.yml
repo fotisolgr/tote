@@ -16,4 +16,3 @@ theme:
   name: readthedocs
   features:
     - toc.integrate
-    - header.autohide
