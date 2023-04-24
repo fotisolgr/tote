@@ -13,5 +13,6 @@ plugins:
   - techdocs-core
   
 theme:
+  name: readthedocs
   features:
     - toc.integrate
