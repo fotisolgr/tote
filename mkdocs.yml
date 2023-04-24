@@ -17,3 +17,6 @@ theme:
   name: material
   features:
     - toc.integrate
+
+markdown_extensions:
+ - pymdown
