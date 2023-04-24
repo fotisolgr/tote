@@ -10,4 +10,4 @@ Our mission is to make software development more accessible and enjoyable for ev
 
 Our team is made up of experienced developers and educators who are committed to making a positive impact on the tech community. Get to know us and learn more about our backgrounds and areas of expertise on our "Team" page.
 
-Thank you for visiting our site! We hope you find it helpful and informative. If you have any questions or feedback, please don't hesitate to [contact us](contact.md).
+🦖 Thank you for visiting our site! We hope you find it helpful and informative. If you have any questions or feedback, please don't hesitate to [contact us](contact.md).
