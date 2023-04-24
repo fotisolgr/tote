@@ -15,8 +15,4 @@ plugins:
 theme:
   name: readthedocs
   features:
-    - navigation.tabs
     - toc.integrate
-extra:
-  version:
-    provider: mike
