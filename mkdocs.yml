@@ -21,3 +21,8 @@ theme:
 markdown_extensions:
   - pymdownx.extra
   - pymdownx.highlight
+  - pymdownx.emoji
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist  
