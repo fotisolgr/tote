@@ -19,4 +19,5 @@ theme:
     - toc.integrate
 
 markdown_extensions:
- - pymdown
+  - pymdownx.extra
+  - pymdownx.highlight
