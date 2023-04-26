@@ -13,6 +13,8 @@ spec:
   type: service
   owner: user:fotisolgr
   lifecycle: experimental
+  dependsOn:
+    - component:default/eck-deployer
   providesApis:
     - gcloud-api
   consumesApis:
