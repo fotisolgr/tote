@@ -9,8 +9,9 @@ metadata:
     github.com/project-slug: fotisolgr/tote
   tags:
     - quarkus
-    - v0.1.0
-    - v0.1.1
+    - java
+    - junit
+    - cloud-native
 spec:
   type: service
   owner: user:fotisolgr
