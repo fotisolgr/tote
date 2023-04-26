@@ -15,6 +15,7 @@ spec:
   lifecycle: experimental
   dependsOn:
     - component:default/eck-deployer
+    - resource:default/postgres-db
   providesApis:
     - gcloud-api
   consumesApis:
