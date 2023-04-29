@@ -12,6 +12,7 @@ metadata:
 spec:
   type: service
   owner: user:fotisolgr
+  system: gemma
   lifecycle: experimental
   dependsOn:
     - component:default/eck-deployer
