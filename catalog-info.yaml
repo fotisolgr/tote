@@ -2,7 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: tote
+  annotations:
+    github.com/project-slug: fotisolgr/tote
 spec:
   type: service
+  
   lifecycle: experimental
   owner: user:fotisolgr
